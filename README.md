@@ -67,7 +67,6 @@ You can map your fields to these expected columns via **Power Query**.
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**  
-   git clone https://github.com/your-username/your-repo.git
 
 2. **Open the report**  
    Launch **Power BI Desktop** and open `Project_0509.pbix`.
