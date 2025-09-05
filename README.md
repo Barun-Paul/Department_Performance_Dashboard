@@ -36,8 +36,6 @@ This repository contains a Power BI solution to help leadership **manage the wor
 ## 🗂️ Repository Contents
 
 - `Project_0509.pbix` — Main Power BI report
-- `data/` — (optional) sample datasets or schema
-- `assets/` — (optional) exported images for README screenshots
 
 ---
 
